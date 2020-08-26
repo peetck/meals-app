@@ -1,6 +1,6 @@
 # Meals App :iphone:
 
-- Meals app made with React Native
+- Meals app made with React Native (w/ react-navigation, redux)
 
 ## Screenshots :camera:
 
